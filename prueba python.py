@@ -13,5 +13,8 @@ for cantantes in cantantes_argentinos:
     if cantantes.count("o")>=2:
         print(cantantes)
 
+print("segunda prueba")
+
+
 
         
